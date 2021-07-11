@@ -1,1 +1,1 @@
-web: gunicorn WCECourses.wsgi --log-file -
+web: gunicorn Healife.wsgi --log-file -
