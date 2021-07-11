@@ -17,5 +17,4 @@ Following are the featDoures which are included in our project :
  3)Blog post(Allowed to doctors)
  4)News
  
- 
- 
+Deployment: <a href="https://healife.herokuapp.com/">https://healife.herokuapp.com/</a>
